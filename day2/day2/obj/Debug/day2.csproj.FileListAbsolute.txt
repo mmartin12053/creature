@@ -1,0 +1,7 @@
+C:\Users\Martin_Maximus\Desktop\c# day 2\day2\day2\bin\Debug\day2.exe.config
+C:\Users\Martin_Maximus\Desktop\c# day 2\day2\day2\bin\Debug\day2.exe
+C:\Users\Martin_Maximus\Desktop\c# day 2\day2\day2\bin\Debug\day2.pdb
+C:\Users\Martin_Maximus\Desktop\c# day 2\day2\day2\obj\Debug\day2.csproj.AssemblyReference.cache
+C:\Users\Martin_Maximus\Desktop\c# day 2\day2\day2\obj\Debug\day2.csproj.CoreCompileInputs.cache
+C:\Users\Martin_Maximus\Desktop\c# day 2\day2\day2\obj\Debug\day2.exe
+C:\Users\Martin_Maximus\Desktop\c# day 2\day2\day2\obj\Debug\day2.pdb
